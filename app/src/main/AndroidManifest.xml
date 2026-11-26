@@ -5,6 +5,8 @@
 
     <application
         android:label="YASSER"
+        android:icon="@mipmap/ic_launcher"
+android:roundIcon="@mipmap/ic_launcher"
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
